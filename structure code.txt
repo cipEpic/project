@@ -1,0 +1,47 @@
+this my code structure
+
+-.next
+-.vscode
+-.yarn
+-node_modules
+-public
+    --next.svg
+    --Sample_User_Icon.png
+    --vercel.svg
+-src
+    --components
+        ---AddInput.tsx
+        ---Header.tsx
+        ---Home.tsx
+        ---index.ts
+        ---LandingPage.tsx
+        ---Results.tsx
+        ---SignUp.tsx
+        ---UploadElections.tsx
+        ---Voted.tsx
+        ---Votes.tsx
+    --context
+        ---Context.tsx
+    --dashboard
+        ---admin
+        ----page.tsx
+        ---page.tsx
+    --images
+        ---home_page.png
+        ---home.png
+        ---user.png
+    --API.ts
+    --favicon.ico
+    --globals.css
+    --layout.tsx
+    --page.tsx
+-.gitignore
+- next-env.d.ts
+-next.config.js
+-package-lock.json
+-package.json
+-postcss.config.js
+-README.md
+-tailwind.config.js
+-tsconfig.json
+-yarn.lock
